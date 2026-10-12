@@ -4,9 +4,7 @@
 
 <h3><p align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello, I'm <a href="https://www.yuanhe.wiki/">Yuan He</a> </p></h3>
 
-<p align="center"> 💻 I am an Applied Scientist at Amazon working on agentic RL and agent environments. </p>
-<p align="center"> 🎓 I obtained my PhD degree in Computer Science at University of Oxford. </p>
-<p align="center"> ⚙️ I'm contributing to several open-source projects. </p>
+<p align="center"> 💻 I am working on training LLMs. </p>
 <p align="center"> 🏚️ See my <a href="https://www.yuanhe.wiki/">homepage</a> for more details about me.</p>
 
 </br>
