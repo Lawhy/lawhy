@@ -1,19 +1,34 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img alt="let's make things work. — Yuan He, AI Researcher &amp; Engineer" src="assets/banner-light.svg" width="100%">
+  </picture>
+</p>
 
+<p align="center">
+  <a href="https://www.yuanhe.wiki/">Homepage</a> ·
+  <a href="https://scholar.google.com/citations?user=sCXUhQcAAAAJ">Scholar</a> ·
+  <a href="https://x.com/lawhy_X">X</a> ·
+  <a href="https://www.linkedin.com/in/lawhy/">LinkedIn</a>
+</p>
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/Lawhy/Lawhy/main/ai-artificial-intelligence.gif" height="auto" />
+<br>
 
-<h3><p align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello, I'm <a href="https://www.yuanhe.wiki/">Yuan He</a> </p></h3>
+<p align="center"><sub><b>OPEN-SOURCE CONTRIBUTIONS</b></sub></p>
 
-<p align="center"> 💻 I am working on training LLMs. </p>
-<p align="center"> 🏚️ See my <a href="https://www.yuanhe.wiki/">homepage</a> for more details about me.</p>
-
-</br>
-
-<div align="center">
-<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Lawhy&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-</div>
-
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Lawhy)](https://github.com/Lawhy/github-profile-trophy) -->
-
-<br/>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/agentvfs"><img src="https://github.com/agentvfs.png?size=120" width="56" alt="AgentVFS"><br><sub><b>AgentVFS</b></sub></a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/open-rollout"><img src="https://github.com/open-rollout.png?size=120" width="56" alt="Open Rollout"><br><sub><b>Open Rollout</b></sub></a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/camel-ai"><img src="https://github.com/camel-ai.png?size=120" width="56" alt="CAMEL-AI"><br><sub><b>CAMEL-AI</b></sub></a>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/KRR-Oxford"><img src="https://github.com/KRR-Oxford.png?size=120" width="56" alt="KRR-Oxford"><br><sub><b>KRR-Oxford</b></sub></a>
+    </td>
+  </tr>
+</table>
